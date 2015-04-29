@@ -1,0 +1,17 @@
+{
+  "name": "FAPP",
+  "version": "0.0.1",
+  "description": "Furious Additive Puzzle Piecing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/we-r-llamas/FAPP.git"
+  },
+  "license": "GNU",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
